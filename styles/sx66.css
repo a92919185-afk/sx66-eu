@@ -133,6 +133,11 @@ body {
   box-shadow: 0 4px 24px rgba(7,17,42,0.60);
 }
 
+.nav-logo-img {
+  width: 90px !important;
+  height: auto !important;
+}
+
 .nav-logo-text {
   font-family: var(--font-heading);
   font-size: 1.6rem;
@@ -488,6 +493,11 @@ body {
 #footer {
   background: var(--color-navy-deep);
   border-top: 1px solid rgba(212,168,71,0.18);
+}
+
+.footer-logo-img {
+  width: 90px !important;
+  height: auto !important;
 }
 
 #footer .footer-logo {
