@@ -275,7 +275,9 @@ body {
 .hero-product-img {
   position: relative;
   z-index: 1;
-  max-width: 780px;
+  max-width: 936px;
+  border-radius: 20px;
+  overflow: hidden;
   filter: drop-shadow(0 32px 64px rgba(0,0,0,0.50)) drop-shadow(0 0 40px rgba(212,168,71,0.15));
 }
 
